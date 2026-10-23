@@ -1,0 +1,25 @@
+# 📝 Git 入门笔记
+
+## 核心概念
+- **Repository（仓库）**：存放项目的地方
+- **Commit（提交）**：给代码拍快照
+- **Branch（分支）**：独立的开发线路
+- **Push**：上传到 GitHub
+- **Pull**：从 GitHub 下载更新
+
+## GitHub Desktop 日常流程
+1. 修改文件
+2. GitHub Desktop 自动检测到变化
+3. 写 Summary → 点 Commit to main
+4. 点 Push origin
+
+## 常用命令（备用）
+
+    git status          # 查看状态
+    git add .           # 添加所有修改
+    git commit -m "描述" # 提交
+    git push            # 推送
+    git pull            # 拉取
+
+---
+*创建于 2026年10月23日*
